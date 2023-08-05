@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="welcome_text">Welcome, Ash Ketchum</string>
+    <string name="evolves_to">"Evolves to: "</string>
+    <string name="capture_rate_difference">"Capture Rate Difference : "</string>
+    <string name="final_evolution_text">This is the final evolution phase of this species</string>
+</resources>

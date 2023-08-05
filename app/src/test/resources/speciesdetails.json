@@ -1,0 +1,21 @@
+{
+  "data": {
+    "species_details": {
+      "capture_rate": 255,
+      "description": [
+        {
+          "flavor_text": "It flaps its small wings busily to\nfly. Using its beak, it searches\nin grass for prey."
+        }
+      ],
+      "evolution_chain": {
+        "evolved_species": [
+          {
+            "name": "fearow",
+            "capture_rate": 90,
+            "id": 22
+          }
+        ]
+      }
+    }
+  }
+}

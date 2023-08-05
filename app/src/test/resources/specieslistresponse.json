@@ -1,0 +1,106 @@
+{
+  "data": {
+    "species": [
+      {
+        "name": "spearow",
+        "id": 21,
+        "order": 21
+      },
+      {
+        "name": "fearow",
+        "id": 22,
+        "order": 22
+      },
+      {
+        "name": "ekans",
+        "id": 23,
+        "order": 23
+      },
+      {
+        "name": "arbok",
+        "id": 24,
+        "order": 24
+      },
+      {
+        "name": "pikachu",
+        "id": 25,
+        "order": 26
+      },
+      {
+        "name": "raichu",
+        "id": 26,
+        "order": 27
+      },
+      {
+        "name": "sandshrew",
+        "id": 27,
+        "order": 28
+      },
+      {
+        "name": "sandslash",
+        "id": 28,
+        "order": 29
+      },
+      {
+        "name": "nidoran-f",
+        "id": 29,
+        "order": 30
+      },
+      {
+        "name": "nidorina",
+        "id": 30,
+        "order": 31
+      },
+      {
+        "name": "nidoqueen",
+        "id": 31,
+        "order": 32
+      },
+      {
+        "name": "nidoran-m",
+        "id": 32,
+        "order": 33
+      },
+      {
+        "name": "nidorino",
+        "id": 33,
+        "order": 34
+      },
+      {
+        "name": "nidoking",
+        "id": 34,
+        "order": 35
+      },
+      {
+        "name": "clefairy",
+        "id": 35,
+        "order": 37
+      },
+      {
+        "name": "clefable",
+        "id": 36,
+        "order": 38
+      },
+      {
+        "name": "vulpix",
+        "id": 37,
+        "order": 39
+      },
+      {
+        "name": "ninetales",
+        "id": 38,
+        "order": 40
+      },
+      {
+        "name": "jigglypuff",
+        "id": 39,
+        "order": 42
+      },
+      {
+        "name": "wigglytuff",
+        "id": 40,
+        "order": 43
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run All Tests with Coverage" type="GradleRunConfiguration" factoryName="Gradle">
+    <ExternalSystemSettings>
+      <option name="executionName" />
+      <option name="externalProjectPath" value="$PROJECT_DIR$" />
+      <option name="externalSystemIdString" value="GRADLE" />
+      <option name="scriptParameters" value="" />
+      <option name="taskDescriptions">
+        <list />
+      </option>
+      <option name="taskNames">
+        <list>
+          <option value=":app:testDebugUnitTest" />
+          <option value="--tests" />
+          <option value="&quot;com.pranay.pokemon.*&quot;" />
+        </list>
+      </option>
+      <option name="vmOptions" />
+    </ExternalSystemSettings>
+    <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+    <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+    <EXTENSION ID="com.intellij.execution.ExternalSystemRunConfigurationJavaExtension">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.presentation.ui.*" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.presentation.viewmodel.PokemonDetailViewModel_HiltModules" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.presentation.viewmodel.PokemonMainViewModel_HiltModules_KeyModule_ProvideFactory" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.presentation.viewmodel.PokemonMainViewModel_Factory" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.presentation.viewmodel.PokemonDetailViewModel_Factory" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.presentation.viewmodel.PokemonDetailViewModel_HiltModules" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.presentation.viewmodel.PokemonDetailViewModel_HiltModules_KeyModule_ProvideFactory" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.presentation.viewmodel.ViewModelHelper_Factory" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.domain.FetchSpeciesUseCase_Factory" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.domain.FetchSpeciesDetailsUseCase_Factory" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.domain.models.EvolvedSpeciesJsonAdapter" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.data.dto.GQLRequestBodyJsonAdapter" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.data.dto.GQLResponseJsonAdapter" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.domain.models.PokemonSpeciesDetailJsonAdapter" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.domain.models.PokemonSpeciesJsonAdapter" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.data.dto.SpeciesDetailDTOJsonAdapter" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.data.dto.SpeciesDetailsGQLDataJsonAdapter" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.data.dto.SpeciesGQLDataJsonAdapter" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.data.networkinterceptor.GQLHeaderInterceptor_Factory" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.di.RoomModule_ProvideDbFactory" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.utils.SchedulerProvider_Factory" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.presentation.viewmodel.PokemonMainViewModel_HiltModules" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.data.PokemonSpeciesDetailsRepository_Factory" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.data.PokemonSpeciesRepository_Factory" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.data.db.PokemonDb_Impl" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.data.db.PokemonDAO_Impl" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.presentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.pranay.pokemon.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </EXTENSION>
+    <DebugAllEnabled>false</DebugAllEnabled>
+    <method v="2" />
+  </configuration>
+</component>
