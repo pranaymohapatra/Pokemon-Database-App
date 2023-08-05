@@ -1,4 +1,4 @@
-# Catawiki Android Assignment - Pokemon App
+# Pokemon App
 
 Pokemon App with paginated list of pokemon species and details screen with description 
 and next evolution chain pokemon
