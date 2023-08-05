@@ -1,7 +1,7 @@
-# Pokemon App
+# Pokemon App with 100% Jetpack Compose + RXJava + Test coverage + Clean arch
 
 Pokemon App with paginated list of pokemon species and details screen with description 
-and next evolution chain pokemon
+and next evolution chain pokemon. App is made with 100 Jetpack compose and Clean arch
 
 ## Architecture pattern used
 
